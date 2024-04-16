@@ -1,2 +1,3 @@
-Hi 
+Hi,
+
 This is repository is all about the tasks that were given in the Python_Internship by PrepInsta.
